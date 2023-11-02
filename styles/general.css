@@ -1,0 +1,28 @@
+body {
+  background-color: pink
+  
+};
+
+.video-button {
+  border: none;
+  
+}
+
+button {
+  background-color: #c7c9ca;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button img {
+  width: 350px; /* Set the width of the image */
+  height: 500px; /* Set the height of the image */
+  margin-right: auto; /* Add some spacing between the image and text */
+}
